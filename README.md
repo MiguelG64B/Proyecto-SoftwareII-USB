@@ -3,6 +3,8 @@ Universidad Simón Bolívar sede Cúcuta
 Programa: Ingeniera de sistemas
 Materia: Ingenieria de software II
 Año:2021
+
+
 Integrantes: 
 -EDGAR MIGUEL BERMUDES HERNANDEZ
 -YEINTON ALEXANDER PEREZ GODOY
@@ -12,7 +14,11 @@ Integrantes:
 Como utlizar: 
 
 1.Descargar el zip 
+
+
 2.Insertar en el htdocs C:\xampp\htdocs
+
+
 3.Descargar la aplicacion "Papercut-SMTP" de ChangemakerStudios
 https://github.com/ChangemakerStudios/Papercut-SMTP
 
@@ -26,6 +32,10 @@ y nos permite recibir los correo de manera local
 
 Acceder como administrador:
 correodeprueba@gmail.com
-123456     Acceder como cliente:
+123456     
+
+Acceder como cliente:
+
 correodeprueba2@gmail.com
+
 123456
