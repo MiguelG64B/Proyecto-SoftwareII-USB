@@ -1,10 +1,13 @@
 # Proyecto-SoftwareII-USB
-
+Universidad Simón Bolívar sede Cúcuta
+Programa: Ingeniera de sistemas
+Materia: Ingenieria de software II
+Año:2021
 Integrantes: 
-EDGAR MIGUEL BERMUDES HERNANDEZ
-YEINTON ALEXANDER PEREZ GODOY
-ANDERSON FERNEY TORRES CONTRERAS
-JUAN CAMILO GOMEZ TORRES
+-EDGAR MIGUEL BERMUDES HERNANDEZ
+-YEINTON ALEXANDER PEREZ GODOY
+-ANDERSON FERNEY TORRES CONTRERAS
+-JUAN CAMILO GOMEZ TORRES
 
 Como utlizar: 
 
@@ -23,7 +26,6 @@ y nos permite recibir los correo de manera local
 
 Acceder como administrador:
 correodeprueba@gmail.com
-123456
-Acceder como cliente:
+123456     Acceder como cliente:
 correodeprueba2@gmail.com
 123456
